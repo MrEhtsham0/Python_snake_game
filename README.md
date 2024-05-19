@@ -21,7 +21,6 @@ This is a simple Snake game implemented in Python using the Turtle graphics libr
 1. Clone this repository:
     ```bash
     git clone https://github.com/MrEhtsham0/Python_snake_game.git
-    cd snake-game
     ```
 
 2. (Optional) Create a virtual environment:
